@@ -1,0 +1,12 @@
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\bin\LuceneSearch.dll.config
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\bin\LuceneSearch.dll
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\bin\LuceneSearch.pdb
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\obj\Debug\LuceneSearch.csprojAssemblyReference.cache
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\obj\Debug\LuceneSearch.csproj.CoreCompileInputs.cache
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\obj\Debug\LuceneSearch.dll
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\obj\Debug\LuceneSearch.pdb
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\bin\ICSharpCode.SharpZipLib.dll
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\bin\Lucene.Net.dll
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\bin\Lucene.Net.pdb
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\bin\Lucene.Net.xml
+C:\Users\parha\source\repos\LuceneSearch\LuceneSearch\obj\Debug\LuceneSearch.csproj.CopyComplete
